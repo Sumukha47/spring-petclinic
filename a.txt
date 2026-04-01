@@ -1,4 +1,4 @@
 hello
 bye
 Hiiiii
-declarative pipeline
+declarative pipe
