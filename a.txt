@@ -2,3 +2,4 @@ hello
 bye
 Hiiiii
 declarative pipe
+Poll scm
