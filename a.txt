@@ -1,7 +1,6 @@
 hiiii
 
 
-Code by abrar
 hello
 bye
 
